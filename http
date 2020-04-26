@@ -1,2 +1,2 @@
-sudo yum install http
+sudo yum install http -y
 sudo systemctl restart http
