@@ -1,3 +1,3 @@
 sudo yum vsftpd -y
-sudo systemctl vsftpd http
-echo "Team work" >> /home/ansible/index.txt
+sudo systemctl vsftpd
+sudo echo "Team work" >> /home/ansible/index.txt
