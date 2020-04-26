@@ -1,2 +1,2 @@
-sudo whoami >> /var/lib/jenkins/index.txt
-sudo date >> /var/lib/jenkins/index.txt
+whoami >> /var/lib/jenkins/index.txt
+date >> /var/lib/jenkins/index.txt
