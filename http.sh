@@ -1,2 +1,2 @@
-sudo whoami >> /home/ec2-user/index.txt
-sudo date >> /home/ec2-user/index.txt
+sudo whoami >> /var/lib/jenkins/index.txt
+sudo date >> /var/lib/jenkins/index.txt
