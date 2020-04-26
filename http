@@ -1,3 +1,2 @@
-sudo yum vsftpd -y
-sudo systemctl vsftpd
-sudo echo "Team work" >> /var/lib/jenkins/index.txt
+whoami >> /var/lib/jenkins/zioteam3.txt
+date >> /var/lib/jenkins/zioteam3.txt
