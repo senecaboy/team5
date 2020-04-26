@@ -1,2 +1,1 @@
-whoami >> /var/lib/jenkins/zioteam3.txt
-date >> /var/lib/jenkins/zioteam3.txt
+sudo yum install vsftp -y
