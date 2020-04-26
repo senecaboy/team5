@@ -1,1 +1,1 @@
-yum install vsftpd
+sudo yum install vsftpd
