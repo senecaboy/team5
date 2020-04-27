@@ -1,2 +1,2 @@
 yum install -y httpd
-echo "page web" >> /var/www/html/index.html
+sudo echo "page web" >> /var/www/html/index.html
