@@ -1,2 +1,2 @@
-yumk install -y httpd
+yum install -y httpd
 echo "page web" >> /var/www/html/index.html
